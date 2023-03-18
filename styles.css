@@ -109,11 +109,12 @@ border-radius: 10px;
 }
 text {
     color: black;
+    opacity: 0.4;
     float: right;
 }
 text span {
-    opacity: 0.4;
     font-weight:900;
+    color: black;
 }
 button {
     display: grid;
